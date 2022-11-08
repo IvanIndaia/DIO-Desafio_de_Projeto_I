@@ -7,7 +7,50 @@ Repositório criado para o desáfio de projeto Git/Github
 
 ## GIT e GITHUB :octocat:
 
-### O que vamos aprender?
+
+### Introdução ao Git
+
+- Entendendo o que é GIT e sua importancia
+
+### Navegação via command line interface e instalação
+
+- Comandos básicos para um bom desempenho no terminal
+
+		> Windows
+		  - cd
+		  - dir
+		  - mkdir
+		  - del/rmdir
+
+		> Unix
+		  - cd
+		  - ls
+		  - mkdir
+		  - rm -rf
+
+- Realizando a instalação do GIT
+
+### Entendento como o Git funciona por baixo dos panos
+
+- Tópicos fundamentais para entender o funcionamento do GIT
+- Objetos internos do GIT
+- Chave SSH e Token
+
+### Primeiros comandos com GIT
+
+- Iniciando o GIT e criando um commit
+
+### Ciclo de vida dos arquivos GIT
+
+- Passo passo no ciclo de vida
+
+### Introdução ao Github
+
+- Trabalhando com o Github
+
+### Resolvendo conflitos
+
+- Como os conflitos acontecem no Github e como resolvê-los
 
 - Mudar de pastas
 - Listar as pastas
@@ -15,17 +58,7 @@ Repositório criado para o desáfio de projeto Git/Github
 - Deletar pastas/arquivos
 
 
-> Windows           > Unix
-  - cd                - cd
-  - dir               - ls
-  - mkdir             - mkdir
-  - del/rmdir         rm -rf
 
-> Unix
-  - cd
-  - ls
-  - mkdir
-  - rm -rf
 
 
 ##### Entendendo como o GIT funciona
